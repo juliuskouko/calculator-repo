@@ -1,0 +1,48 @@
+.n1 {
+    border: 0.1px solid grey;
+    background-color:  hsl(0, 100%, 90%);
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+.n2 {
+     border: 0.1px solid grey;
+    background-color:  hsl(0, 100%, 90%);
+    /*border-left: none;*/
+    border-right: none;
+    border-top: none;
+}
+.n3 {
+    border: 0.1px solid grey;
+    background-color:  hsl(0, 100%, 90%);
+    /*border-left: none;*/
+    border-right: none;
+    border-top: none;
+}
+.n4 {
+    border: 0.1px solid hsl(0, 100%, 90%);
+    background-color: orange;
+    /*border-left: none;*/
+    border-right: none;
+    border-top: none;
+    color: white;
+
+}
+.first {
+     border: 0.1px solid grey;
+    background-color: darkgray;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+h1 {
+    text-align: center;
+}
+#left {
+    text-align: right;
+    color: white;
+}
+
+.main {
+    padding: 30px;
+}
